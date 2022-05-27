@@ -5,3 +5,7 @@ body {
 .card .card-title {
   color: blue;
 }
+
+.btn {
+  background-color: blue !important;
+}
