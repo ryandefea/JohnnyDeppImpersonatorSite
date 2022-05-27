@@ -2,3 +2,6 @@ body {
   background-color: whitesmoke
 }
 
+.card .card-title {
+  color: blue;
+}
